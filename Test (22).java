@@ -1,4 +1,4 @@
-// Searching element is present or noy 
+// Searching element is present or not
 
 class Test {
   public static void main (String[]args){
